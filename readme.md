@@ -3,7 +3,7 @@ A 2017.05.17-i szakismereti informatika érettségi programozási (Helsinki 1952
 Teszt herokuapp: https://erettsegi-helsinki-ts.herokuapp.com/
 
 Fejlesztői környezet telepítése:
-https://github.com/nitslaszlo/JedlikTsTemplate
+https://github.com/detrikmilan/HelsinkiTs2
 
 # HelsinkiTs2
 
